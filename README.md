@@ -1,7 +1,7 @@
 # Landing page "Huddle"
 
 ## Description
-My portfolio website for landing page. Pixel-perfect implementation based on a Figma design file.
+My portfolio website for landing page. Intricate layout built with Tailwind CSS. Pixel-perfect implementation based on a Figma design file.
 
 ## Features
 - Responsive Design: Works seamlessly on desktop, tablet, and mobile devices.
