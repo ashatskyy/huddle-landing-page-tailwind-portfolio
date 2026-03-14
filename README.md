@@ -15,5 +15,5 @@ My portfolio website for landing page. Intricate layout built with Tailwind CSS.
 ## Available at the following web address
 https://ashatskyy.github.io/huddle-landing-page-tailwind-portfolio/
 
-## Autor
+## Author
 Alexander Shatsky
